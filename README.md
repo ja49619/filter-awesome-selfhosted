@@ -1,2 +1,4 @@
 # filter-awesome-selfhosted
-JS код фильтрует приложения по количеству звёзд на awesome-selfhosted.net 
+The script simply filters the html page https://awesome-selfhosted.net/ by github stars so that you can choose the best of the best. 
+
+Default is 20000+ stars
